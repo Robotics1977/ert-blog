@@ -4,7 +4,7 @@ title: "ERT Blog"
 ---
 
 # 🧠 ERT Blog
-Welcome to my personal blog — where I share robotics progress, engineering insights, and the story behind AstroGear Labs.
+Welcome to my personal blog — where I share anything and everything that apppeals to me.
 
 ---
 
