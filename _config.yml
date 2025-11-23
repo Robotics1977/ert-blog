@@ -1,0 +1,6 @@
+title: "ERT Blog"
+description: "Personal insights, robotics progress, and the journey of AstroGear Labs."
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-feed
